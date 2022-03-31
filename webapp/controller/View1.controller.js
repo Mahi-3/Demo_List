@@ -10,6 +10,7 @@ sap.ui.define([
         return Controller.extend("project1.fiori1.project1fiori.controller.View1", {
             onInit: function () {
                 //this a function
+                //it is a function
 
             }
         });
